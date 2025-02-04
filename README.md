@@ -109,3 +109,9 @@ comando falhar poderão ser tão diversos como:
 - erros puros de OCaml (*e.g.*, erros de sintaxe, argumentos de função não
   utilizados, erros de tipificação, etc.);
 - erro num teste OUnit, em que alguma das funções não devolve o resultado esperado.
+
+
+Project PDF:
+
+[lap_handout3 (3).pdf](https://github.com/user-attachments/files/18660047/lap_handout3.3.pdf)
+
